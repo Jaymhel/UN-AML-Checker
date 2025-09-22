@@ -1,18 +1,42 @@
-# UN SC List Checker for CPAs
+# UN AML Checker for Hong Kong CPAs
 
-A Python-based tool for Hong Kong CPA practices to screen client lists against the United Nations Security Council Consolidated List for AFRC compliance requirements.
+A comprehensive Python tool for screening client lists against the United Nations Security Council Consolidated List to meet AFRC compliance requirements.
 
 ## Features
 
 - Automated download of UN SC Consolidated List
-- Client data processing with name combination generation
-- Comprehensive matching against UN list data
-- Detailed reporting of potential matches
-- Secure local processing (no data sent to external servers)
+- Client data processing with intelligent name matching
+- Comprehensive comparison against UN sanctions data
+- Detailed reporting with full client and UN individual information
+- Local processing - no data leaves your computer
+
+## Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/helmetWong/UN-AML-Checker.git
+cd UN-AML-Checker
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Create necessary directories
+mkdir un_data clients_data reports
+
+# Place your client CSV files in clients_data/
+# Run the screening
+python main.py
+
+File Format
+Client CSV files should be named YYYYMMDD_clients.csv (prepare by the user) and contain these columns:
+
+SN, File_no, BRN, Company, Officer, Role
 
 ## Disclaimer
 
-**Important:** This software is provided for informational purposes only. Users are solely responsible for:
+Important Disclaimer
+This tool is for preliminary screening only. Always verify results against official UN sources. See DISCLAIMER.md for complete terms.
+
 - Verifying all matches against official UN sources
 - Ensuring compliance with all regulatory requirements
 - Proper handling and security of client data
@@ -86,3 +110,4 @@ git clone https://github.com/yourusername/un-sc-checker.git
 cd un-sc-checker
 
 pip install -r requirements.txt
+
