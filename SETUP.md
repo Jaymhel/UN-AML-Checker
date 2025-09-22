@@ -18,4 +18,7 @@
 ## Data Security
 - All processing occurs locally on your machine
 - No data is transmitted to external servers
+
 - You are responsible for securing client data
+
+## Data Security
