@@ -1,25 +1,3 @@
-# UN SC List Checker for CPAs
-
-A Python-based tool for Hong Kong CPA practices to screen client lists against the United Nations Security Council Consolidated List for AFRC compliance requirements.
-
-## Features
-
-- Automated download of UN SC Consolidated List
-- Client data processing with name combination generation
-- Comprehensive matching against UN list data
-- Detailed reporting of potential matches
-- Secure local processing (no data sent to external servers)
-
-## Disclaimer
-
-**Important:** This software is provided for informational purposes only. Users are solely responsible for:
-- Verifying all matches against official UN sources
-- Ensuring compliance with all regulatory requirements
-- Proper handling and security of client data
-- Any decisions made based on the software output
-
-The author provides no warranties regarding accuracy or completeness of results. See [LICENSE](LICENSE) for complete terms.
-
 # Disclaimer and Terms of Use
 
 ## Important Notice
@@ -77,11 +55,3 @@ While third-party IT providers may charge for installation and support services:
 Copyright (c) 2023 [Your Name]. All rights reserved.
 
 The software remains the intellectual property of the author. While free to use and modify, users must maintain this copyright notice and disclaimer in all distributions.
-
-
-## Installation
-
-```bash
-git clone https://github.com/yourusername/un-sc-checker.git
-cd un-sc-checker
-pip install -r requirements.txt
