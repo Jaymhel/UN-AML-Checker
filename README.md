@@ -74,7 +74,7 @@ While third-party IT providers may charge for installation and support services:
 
 ## 7. Copyright Notice
 
-Copyright (c) 2023 [Your Name]. All rights reserved.
+Copyright (c) 2025 Micheal Wong . All rights reserved.
 
 The software remains the intellectual property of the author. While free to use and modify, users must maintain this copyright notice and disclaimer in all distributions.
 
@@ -84,4 +84,5 @@ The software remains the intellectual property of the author. While free to use 
 ```bash
 git clone https://github.com/yourusername/un-sc-checker.git
 cd un-sc-checker
+
 pip install -r requirements.txt
