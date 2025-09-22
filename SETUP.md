@@ -24,13 +24,24 @@
 
 UN-AML-Checker/
    --- main.py
+   
    --- client_data_retriever.py
+   
    --- client_list_loader.py
+   
    --- comparision_tool.py
+   
    --- name_combinations.py
+   
    --- un_data_parser.py
+   
    --- un_data_retriever.py
+   
    --- unlist_loader.py
+   
    ---/clients_data/YYYYMMDD_clients.csv   (prepare by you)
+   
    ---/report/                             (report generated in here)
+   
    ---/un_data/                            (save the un data in here) 
+
