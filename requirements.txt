@@ -1,0 +1,6 @@
+# UN AML Checker - Python Dependencies
+# Requires Python 3.8 or higher
+
+requests>=2.25.0
+pandas>=1.3.0
+lxml>=4.6.0
